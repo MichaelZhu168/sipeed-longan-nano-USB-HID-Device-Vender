@@ -50,4 +50,6 @@ I use the NucleiStudio (a customed version of Eclipse), since they already inclu
 
 any question? drop me a line. 
 Hope you like it.
+
+Note: I can't share the USB HID host VC++ project on the PC side since it is a job related project. but you can find similare ones on internet. like Microchip or TI liberies.
 		

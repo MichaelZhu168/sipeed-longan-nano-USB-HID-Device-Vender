@@ -47,4 +47,7 @@ I use the NucleiStudio (a customed version of Eclipse), since they already inclu
 	It functions exactly as the GD32vf103 Dev board for the USB purpose. The linker is the same GD32VF103xB.lds for GD32vf103CBT6 chip and GD32vf103VBT6 chip; 
 
 6. 4/15/2021 tried 250/second, it is much better than 500/second regarding the lose of reports caputured by host.
+
+any question? drop me a line. 
+Hope you like it.
 		

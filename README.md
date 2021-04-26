@@ -24,7 +24,7 @@ used as the remote wakeup source.
 
     - If PC is ON, remote wakeup is OK, else failed
 
------mzhu added below-------------------------------------------------
+I use the NucleiStudio (a customed version of Eclipse), since they already include all the packages like CDT tools for embed programming. I uploaded all the screenshots for all the settings. 
     
 1. the Core timer interrupt 500 times /second (setting in systick.c). 
     its handler "eclic_mtip_handler(void)" in gd32vf103_it.c. 

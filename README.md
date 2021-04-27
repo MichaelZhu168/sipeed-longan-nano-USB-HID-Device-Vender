@@ -13,7 +13,11 @@ You can use the on-chip ADC to caputure a temperature or voltage and wrap it int
 
 
 I use the NucleiStudio (a customed version of Eclipse), since they already include all the packages like CDT tools for embed programming. I uploaded all the screenshots for all the settings. 
-    
+
+For the debuger, I use rv-link debuger. it is a hardware rv-link debuger I converted from a longan nano board. Search the github how to do it. Of course, you can use any standared JTAG debuger for this project.
+
+Below some other notes:
+
 1. the Core timer interrupt 500 times /second (setting in systick.c). 
     its handler "eclic_mtip_handler(void)" in gd32vf103_it.c. 
     In this handle, it will send out HID report to the host;

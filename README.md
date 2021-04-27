@@ -9,7 +9,7 @@ from an integrated PLL.
 
   The GD32 device is enumerated as an USB HID device, that can talks with the native PC/Andriod Host
 HID driver. No custom USB driver needed on host side. But you need a software on USB host to caputer the HID report data and dispaly it.
-You can use the on-chip ADC to caputure a temperature or voltage and wrap it into a HID report and send it to the host.
+You can use the on-chip ADC to caputure a temperature or voltage and wrap it into a HID report and send it to the host. In this project, it just generates saw teeth waves.
 
 
 I use the NucleiStudio (a customed version of Eclipse), since they already include all the packages like CDT tools for embed programming. I uploaded all the screenshots for all the settings. 

@@ -43,5 +43,5 @@ Below some other notes:
 any question? drop me a line. 
 Hope you like it.
 
-Note: I can't share the USB HID host VC++ project on the PC side since it is a job related project. but you can find similare ones on internet. like in Microchip or TI libaries.
+Note: I can't share the USB HID host VC++ project on the PC side since it is a job related project. but you can find similare ones on internet. like in Microchip or TI libaries. or search "Free USB Analyzer from  HHD Software".
 		
